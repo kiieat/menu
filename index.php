@@ -10,16 +10,16 @@
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
     
-    <link href="bootstrap.css" rel="stylesheet" />
-    <link href="gsdk.css" rel="stylesheet"/>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/gsdk.css" rel="stylesheet"/>
     
-    <link href="demo.css" rel="stylesheet" /> 
+    <link href="css/demo.css" rel="stylesheet" /> 
         
     <!--     Fonts and icons     -->
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Grand+Hotel' rel='stylesheet' type='text/css'>  
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
-    <link href="pe-icon-7-stroke.css" rel="stylesheet" />
+    <link href="css/pe-icon-7-stroke.css" rel="stylesheet" />
     
 </head>
 <body>
@@ -98,20 +98,20 @@
 
 </body>
 
-    <script src="jquery-1.10.2.js" type="text/javascript"></script>
-	<script src="jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
+    <script src="js/jquery-1.10.2.js" type="text/javascript"></script>
+	<script src="js/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>
 
-	<script src="bootstrap.js" type="text/javascript"></script>
+	<script src="css/bootstrap.js" type="text/javascript"></script>
 	
 	<!--  Plugins -->
-	<script src="gsdk-checkbox.js"></script>
-	<script src="gsdk-morphing.js"></script>
-	<script src="gsdk-radio.js"></script>
-	<script src="gsdk-bootstrapswitch.js"></script>
-	<script src="bootstrap-select.js"></script>
-	<script src="bootstrap-datepicker.js"></script>
-	<script src="chartist.min.js"></script>
-    <script src="jquery.tagsinput.js"></script>
+	<script src="js/gsdk-checkbox.js"></script>
+	<script src="js/gsdk-morphing.js"></script>
+	<script src="js/gsdk-radio.js"></script>
+	<script src="js/gsdk-bootstrapswitch.js"></script>
+	<script src="js/bootstrap-select.js"></script>
+	<script src="js/bootstrap-datepicker.js"></script>
+	<script src="js/chartist.min.js"></script>
+    <script src="js/jquery.tagsinput.js"></script>
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 	
 	<script src="get-shit-done.js"></script>
